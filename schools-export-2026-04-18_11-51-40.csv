@@ -1,0 +1,3 @@
+id;name;code;description;address;city;state;country;phone;email;logo_url;is_active;created_by;created_at;updated_at
+2b81e71d-aa8c-4604-b8b8-cfddd16c4b8a;EduCloud Demo School;DEMO-SCHOOL;Seeded demo school for role-based testing;;Demo City;;India;;;;true;;2026-04-18 03:28:20.037327+00;2026-04-18 03:28:20.037327+00
+f7e6485c-d89b-4c6d-99bf-3eeb22542611;Veena Public School - Khiddi;Vps-khd;;;Banka;Bihar;;7004580183;vpskhd@gmail.com;;true;66a5d7e9-58b6-4bbb-a089-c94fbbdf00b9;2026-04-18 05:52:07.731427+00;2026-04-18 05:52:07.731427+00
